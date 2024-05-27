@@ -11,6 +11,7 @@ body{
 #ImagenPrincipal{
     height: 500px ;
     margin-left: 37%;
+    box-shadow: 5px 5px 10px black;
 }
 #Boton{
     font-family: 'Gill Sans';
@@ -25,4 +26,9 @@ body{
     color:azure;
     background-color: rgb(145, 171, 17);
     
+}
+#ImagenTobiLeon{
+    height: 500px ;
+    
+    box-shadow: 5px 5px 10px black;
 }
