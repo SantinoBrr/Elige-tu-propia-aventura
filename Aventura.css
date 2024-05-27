@@ -31,12 +31,12 @@ body{
     color: rgb(255, 255, 255);
     background-color: rgb(145, 171, 17);
 }
-#ImagenTobiLeon{
+.ImagenTobiAventura{
     height: 500px ;
     margin-left: 70px;
     box-shadow: 5px 5px 10px black;
 }
-#Boton2{
+.Boton2{
     font-family: 'Gill Sans';
     font-size: 20px;
     text-shadow: 6px 5px 9px rgb(0, 0, 0);
@@ -44,38 +44,21 @@ body{
     height: 50px;
     width: 300px;
 }
-#Boton2:hover{
+.Boton2:hover{
     color: rgb(255, 255, 255);
     background-color: rgba(145, 171, 17, 0.568);
 }
-#Boton2:active{
+.Boton2:active{
     color:gold;
     background-color: rgb(145, 171, 17);
     
-}
-#Boton3{
-    font-family: 'Gill Sans';
-    font-size: 20px;
-    text-shadow: 6px 5px 9px rgb(0, 0, 0);
-    background-color: rgb(145, 171, 17);
-    height: 50px;
-    width: 380px;
-}
-#Boton3:active{
-    color:gold;
-    background-color: rgb(145, 171, 17);
-    
-}
-#Boton3:hover{
-    color: rgb(255, 255, 255);
-    background-color: rgba(145, 171, 17, 0.568);
 }
 .Dead{
     margin-top: 100px;
     text-align: center;
 
 }
-#Boton4{
+.BotonBack{
     font-family: 'Gill Sans';
     font-size: 20px;
     text-shadow: 6px 5px 9px rgb(0, 0, 0);
@@ -83,12 +66,15 @@ body{
     height: 50px;
     width: 180px;
 }
-#Boton4:active{
+#BotonDead:active{
     color:gold;
     background-color: rgb(145, 171, 17);
     
 }
-#Boton4:hover{
+#BotonDead:hover{
     color:rgb(0, 0, 0);
     background-color: rgba(255, 255, 255, 0.801);
+}
+#BodyAventura3{
+    text-align: center;
 }
